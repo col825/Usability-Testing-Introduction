@@ -1,7 +1,7 @@
 # Welcome to my repo!
 
 This repo is for a course called Usability Testing in Technical Writing Environments offered at the University of Pittsburgh by Dr. Stephen Quigley.
-Click the link below to see more about me! :)
+Click the link to see more about me! :)
 https://col825.github.io/Usability-Testing-Introduction/
 
 
